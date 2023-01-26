@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**RohanShrestha01/RohanShrestha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on NextJS, React, Prisma, TypeScript, Tailwind
+- :link: Here is my portfolio website -> [Portfolio](https://rohanshrestha.dev)
+- :page_facing_up: You can also find my resume here -> [Resume](https://rohanshrestha.dev/resume.pdf)
 
-Here are some ideas to get you started:
+## Technologies I've Worked With
+[![My Skills](https://skillicons.dev/icons?i=nextjs,astro,vite,webpack,react,redux,prisma,mysql,mongodb,ts,js,tailwind,sass,materialui,css,html,nodejs,express,c,cpp,py,linux)](https://rohanshrestha.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=rohanshrestha01&theme=tokyonight&hide_border=true&border_radius=20)
+<br/>
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshrestha01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshrestha01&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)
