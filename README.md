@@ -1,6 +1,7 @@
 ### Hi there, I'm Rohan 👋
 
-- 🔭 I’m currently working on NextJS, React, Prisma, TypeScript, Tailwind
+- 🔭 I’m currently working on NextJS, Astro, React, Prisma, PostgreSQL, TRPC, ExpressJS, TypeScript & Tailwind.
+- :heart_eyes: Some of my current favourite libraries are TanStack Query, Radix UI, Zod, Zustand, Tailwind etc.
 - :link: Here is my portfolio website -> [Portfolio](https://rohanshrestha.dev)
 - :page_facing_up: You can also find my resume here -> [Resume](https://rohanshrestha.dev/resume.pdf)
 
