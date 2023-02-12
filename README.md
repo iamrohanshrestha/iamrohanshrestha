@@ -11,6 +11,6 @@
 ## My Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohanshrestha01&theme=tokyonight&hide_border=true&border_radius=20)
 <br/>
-![Rohan's GitHub stats](https://github-readme-stats-rohanshrestha01.vercel.app/api?username=rohanshrestha01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshrestha01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
 <br/>
-![Top Langs](https://github-readme-stats-rohanshrestha01.vercel.app/api/top-langs/?username=rohanshrestha01&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshrestha01&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)
