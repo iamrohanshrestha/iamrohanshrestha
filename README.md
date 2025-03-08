@@ -50,8 +50,8 @@ I specialize in developing web applications with Next.js/React, mobile apps usin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ## My Github Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rohanshrestha01&theme=tokyonight&hide_border=true&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamrohanshrestha&theme=tokyonight&hide_border=true&border_radius=20)
 \
-![Rohan's GitHub stats](https://rohanshrestha01.vercel.app/api?username=rohanshrestha01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
+![Rohan's GitHub stats](https://shrestharohan.vercel.app/api?username=iamrohanshrestha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
 \
-![Top Langs](https://rohanshrestha01.vercel.app/api/top-langs/?username=rohanshrestha01&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)
+![Top Langs](https://shrestharohan.vercel.app/api/top-langs/?username=iamrohanshrestha&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)
