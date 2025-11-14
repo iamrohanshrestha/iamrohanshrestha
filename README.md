@@ -34,7 +34,7 @@ I specialize in developing web applications with Next.js/React, mobile apps usin
 ![Git](https://img.shields.io/badge/Git-%2320232a.svg?style=flat&logo=git&logoColor=%23F05032)
 ![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=flat&logo=firebase&logoColor=%23DD2C00)
 
-## My Github Stats
+## My GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamrohanshrestha&theme=tokyonight&hide_border=true&border_radius=20)
 \
 ![Rohan's GitHub stats](https://shrestharohan.vercel.app/api?username=iamrohanshrestha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
